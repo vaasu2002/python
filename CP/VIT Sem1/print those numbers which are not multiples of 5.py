@@ -9,6 +9,11 @@ for i in range(len(ans)):
  else:
   print(ans[i],end=" ")
   
+# print(" ".join(map(str,b)),end='')  
+  
+  
+  
+  
   
 '''
 2 4 5 20 25 3 467 100

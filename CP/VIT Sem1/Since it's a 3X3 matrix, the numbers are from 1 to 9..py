@@ -1,5 +1,4 @@
-R = 3
-C = 3
+R,C=map(int,input().split())
 a = 1
 for i in range(R):
   for i in range(C):

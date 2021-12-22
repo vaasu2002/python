@@ -1,3 +1,6 @@
+'''Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters.'''
+
+
 s = input("")
 upper,lower = 0,0
 for i in s:

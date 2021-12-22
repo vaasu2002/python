@@ -1,3 +1,6 @@
+''' Given an alphanumeric string S, extract maximum numeric value from that string. All the
+alphabets are in lower case. Take the maximum consecutive digits as a single number''''
+
 num,ans = 0,0
 s = input("")
 for i in s:
